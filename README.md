@@ -12,14 +12,22 @@ File Cleaner is a simple and efficient desktop application that helps users clea
 - **Performance Optimization**: Improve system performance by regularly cleaning up cluttered files.
 - **User-Friendly Interface**: Simple and intuitive design for ease of use.
 
+## Download
+You can download the latest version of the File Cleaner for Windows from the [Releases](https://github.com/systechgd/DuplicateFileCleaner/releases) section on GitHub.
+
 ## Installation
+1. Download the installer (`FileCleanerSetup.exe`) from the link above.
+2. Run the installer and follow the on-screen instructions.
+3. Once installed, you can launch File Cleaner from your Start Menu or Desktop.
+
+If you encounter any issues, please check the [Troubleshooting](#troubleshooting)
 
 ### Prerequisites
 
 - **Operating System**: Windows 10 or later
 - **Python 3.x**: Ensure that Python is installed on your system.
 
-### Installation Steps
+### Installation Steps for Developers
 
 1. Clone the repository:
     ```bash
